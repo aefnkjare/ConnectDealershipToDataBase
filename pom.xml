@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.iv</groupId>
-    <artifactId>Workshop8_ConnectingDealershipToDatabase</artifactId>
+    <artifactId>jdbc-dealership-project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
